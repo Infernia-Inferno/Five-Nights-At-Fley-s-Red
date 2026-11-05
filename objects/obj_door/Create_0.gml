@@ -1,0 +1,1 @@
+doorsprite = spr_door;
