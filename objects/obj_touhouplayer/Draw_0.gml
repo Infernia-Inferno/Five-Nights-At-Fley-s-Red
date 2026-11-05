@@ -1,0 +1,1 @@
+draw_sprite(seq_reimu,0,x,y);
